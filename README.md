@@ -7,4 +7,5 @@
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
 ![SQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&color=1863ac)
 ![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
+![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&color=1e40da)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
