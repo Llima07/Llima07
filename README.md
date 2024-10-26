@@ -8,4 +8,5 @@
 ![SQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&color=1863ac)
 ![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
 ![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&color=1e40da)
+![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript&color=f7df1e)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
